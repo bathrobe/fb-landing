@@ -6,12 +6,13 @@ export default function Home() {
       <section className="flex flex-col md:flex-row items-center justify-between p-8">
         <div className="flex flex-col items-start max-w-md mr-8 md:mr-16">
           <h1 className="text-4xl font-bold mb-4">
-            I'm building a school of the future.
+            I'm building a lab for learning.
           </h1>
           <p className="mb-8">
-            Flashbang is a spaced repetition-first learning platform with
-            interactive videos on futuristic subjects that are actually
-            interesting. Read how I'm building it on my Substack.
+            Flashbang is a learning platform built with short, interactive
+            videos, live interactions with LLMs, and spaced repetition
+            techniques to make it stick. Check out my Substack if you want to
+            learn more about the project.
           </p>
           <a
             href="https://flashbangapp.substack.com"
